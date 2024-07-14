@@ -53,13 +53,13 @@
 - 오류 및 오작동, 최적화(작업중)
 
 :: 사용한 라이브러리 및 플러터 패키지 ::
-cloud_firestore : FireBase 데이터베이스 읽기/쓰기
-firebase_auth : FireBase 회원가입 및 로그인 등 회원관리
-firebase_core : FireBase 제품군 사용
-firebase_storage : FireBase 이미지 및 동영상등 파일 저장소
-image_picker : 이미지 불러오기
-path : 비디오 업로드 경로 설정
-preload_page_view : PageView위젯 사전 로드
-rxdart : 채팅방 유저 체크
-video_player : 숏폼 구현하기 위한 영상 처리
-visibility_detector : 스크린 섹션 감지 및 처리
+- cloud_firestore : FireBase 데이터베이스 읽기/쓰기
+- firebase_auth : FireBase 회원가입 및 로그인 등 회원관리
+- firebase_core : FireBase 제품군 사용
+- firebase_storage : FireBase 이미지 및 동영상등 파일 저장소
+- image_picker : 이미지 불러오기
+- path : 비디오 업로드 경로 설정
+- preload_page_view : PageView위젯 사전 로드
+- rxdart : 채팅방 유저 체크
+- video_player : 숏폼 구현하기 위한 영상 처리
+- visibility_detector : 스크린 섹션 감지 및 처리
