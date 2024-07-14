@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141249426301",
+    "project_id": "veno-shop",
+    "storage_bucket": "veno-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141249426301:android:081cdeaae908b17f705214",
+        "android_client_info": {
+          "package_name": "kr.veno.webshopping.web_shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBjNHrNiDwNGtdV5uhK9Rqm6RDXeWWas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
